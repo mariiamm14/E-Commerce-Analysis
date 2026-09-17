@@ -109,4 +109,4 @@ All reports include slicers for **Month**, **Payment Method**, and **Region**, e
 
 ## 👤 Author
 
-Mariam Aboelkhier Mohamed (Email, LinkedIn)
+**Mariam Aboelkhier Mohamed** ([Email](mailto:mariamaboelkhier1@gmail.com), [LinkedIn](https://www.linkedin.com/in/mariam-aboelkhier))
