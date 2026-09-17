@@ -90,6 +90,7 @@ All reports include slicers for **Month**, **Payment Method**, and **Region**, e
 
 ## 🛠️ Tools & Skills Used
 
+- **Excel (Dashboard and Analysis)
 - **Power BI** — Data modeling, DAX measures, interactive dashboards
 - **Power Query** — Data cleaning and transformation
 - **DAX** — Calculated KPIs (Profit Margin, AOV, Total Cost, etc.)
@@ -108,6 +109,4 @@ All reports include slicers for **Month**, **Payment Method**, and **Region**, e
 
 ## 👤 Author
 
-**Mariam Aboelkhier Mohamed**
-Data Analyst | Business Intelligence
-📍 Cairo, Egypt
+Mariam Aboelkhier Mohamed (Email, LinkedIn)
